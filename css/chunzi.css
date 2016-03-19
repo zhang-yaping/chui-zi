@@ -1,0 +1,246 @@
+body,p,ul,li,h1,h2,h3,h4,h5,h6,form,input{
+   margin: 0;padding:0;
+   list-style: none;
+   font-family: Arail,"Microsoft Yahei";
+   font-size: 14px;}
+.mainbavbox{width:100%;
+           height:100px;
+		  background-image:url(../image/top-pumel-bg.jpg);
+	       }
+.mainbav{width:1120px;
+         height:69px;
+		 margin:0 auto;
+	      padding-top:31px }
+.denglubox{width:100%;
+         height:38px;
+		 background-image:url(../image/global-gray-bg-light.jpg);
+	       }
+.denglu{width:1120px;
+         height:38px;
+		 margin:0 auto;
+		 }
+.contentbox{width:100%;
+         height:1150px;
+		 background: url(../image/index-background-image.jpg) center top no-repeat;
+}
+	       
+.content{width:1120px;
+         height:1090px;
+		padding-top:60px;
+		 margin:0 auto;}
+.content2box{width:100%;
+         height:271px;
+		 background:white;
+	   
+		  }
+.content2{width:1120px;
+         height:271px;
+		 background:white;
+		 margin:0 auto;}
+.fuwubox{width:100%;
+         height:226px;
+		 background:white;  }
+.fuwu{width:1120px;
+         height:226px;
+		 background:white;
+		 margin:0 auto;}
+.footerbox{width:100%;
+         height:62px;
+		 background:white;
+	       }
+.footer{width:1120px;
+         height:62px;
+		 background:white;
+		 margin:0 auto;}
+.mainbav-left{width:161px;
+         height:38px;
+		 float:left;
+		 background:yellow;
+		 line-height:38px;
+		 }
+.mainbav-right{width:810px;
+         height:38px;
+		 float:right;
+		 }
+.mainbav-right-bav{ float:left;
+            display:block;
+		   line-height:38px; 
+		 margin-left: 30px;
+		 }
+a{text-decoration: none;
+  color:#d3d3d3;
+	margin:0px;
+}
+.mainbav-right-bav a:hover{color:#ffffff;}
+img{border: none;}
+ul{margin:0px;
+padding:0px}
+.word-bav{display:block;
+         width:86px;
+         height:26px;
+				   border:1px solid #333 ;
+				   border-radius:5px;
+				   line-height:26px;
+				   text-align:center;
+				   margin:5px 18px ;
+				   color:white;
+				   }
+.word-bav:hover{border-color:white
+                 }
+.goumai{display:block;float:left;
+                  width:115px;
+				   height:26px;
+				 background:#6b89d5;
+				   border-radius:5px;
+				   line-height:26px;
+				   text-align:center;
+				   margin:5px ;
+				   color:white;
+				   margin-right:0px;
+		  }
+.goumai:hover{
+              background:#ffffff;
+			  color:black;}
+.dengleft{
+	width: 120px;
+	height: 38px;
+	float: left;
+     text-align:center;
+	line-height:38px;
+}
+.zhong{
+	float: left;
+	font-size: 12px;
+	margin-left:11px;
+}
+.zhong{color:#45474b;}
+.deng-right{
+     width:95px;
+    height:38px;
+    float: right;
+    text-align:center;
+    line-height:38px;
+}
+
+.dengright ul li a{
+	color: #333;
+	font-size: 12px;
+}
+.li{float: left;
+margin-right: 8px;
+color:#45474b;
+}
+.guoqi{width:14px;
+       height:11px;
+	   background-image:url(../image/flag.png);
+	   background-repeat:no-repeat;
+	   background-position:-1px -2px;
+	   float:left;
+	   margin-top:13px;
+	   line-height:38px;
+	   }
+.sanjiao{display:block;
+         width:7px;
+        height:5px;
+		float:right;
+		margin-top:16px;
+	margin-right:20px;}
+.sanjiao:hover{transform:rotate(180deg);
+          transition:all 2s ease;}
+.con-top{display:block;
+        width:576px;
+        height:60px;
+		 margin:0  auto;
+		 cursor:pointer;
+		
+        }
+.con-bottom{display:block;
+        width:698px;
+    
+		 margin:0  auto;
+		 cursor:pointer;
+		 margin-top:68px;
+        }
+.tupian{width:332px;
+	   height:188px;
+	   float:left;
+	   margin-left:30px;
+	    margin-top:40px;
+	  }
+.fudai{width:332px;
+	   height:210px;
+	   float:left;
+	   margin-left:30px;
+	    margin-top:40px;}
+.zi{float:left;
+    width: 173px;
+    padding-top: 40px;
+   
+}
+.zi .yihang{
+    padding: 15px 0px 13px;
+    font-size: 18px;
+    line-height: 18px;
+    color: #424242;
+	margin-bottom:10px;
+
+}
+.xiaozi{color: #757575;
+        font-size:14px;
+		margin-left:-40px
+       }
+.xiaozi:hover{
+	color: #98baef;
+}
+.zaixian{float: right;
+	width: 240px;
+	height: 100%;
+    text-align: right;
+	margin-top:35px;}
+.zixun{
+	display: block;
+	width: 97px;
+	height: 34px;
+	margin-top: 32px;
+	background: url(../image/need-help-button.png) 0 0 no-repeat;
+	color: #fff;
+	font-size: 16px;
+	text-align: center;
+	padding-left:20px; 
+	line-height: 34px;
+	margin-left:113px;
+}
+.phone{
+	font-size: 28px;
+	line-height: 51px;
+	color: #333;
+}
+.dizhi{
+	font-size: 14px;
+	color: #999999;}
+.banquanbox{
+	width: 700px;
+	overflow: hidden;
+}
+.banquan{ float: left;
+	margin-top: 19px;
+}
+.banquan li{
+    float: left;
+    font-size: 12px;
+    color: #666;
+    margin-right:11px;
+}
+.ban{float: left;
+	color: #84a3e3;
+}
+.zhusi{
+	width: 500px;
+	overflow: hidden;
+}
+.zhusi p{
+	float: left;
+	margin-right: 27px;
+	font-size: 11px;
+	color: #999999;
+}
